@@ -19,7 +19,7 @@ const mango: User = {
 };
 
 const poly: User = {
-  name: "Mango",
+  name: "Poly",
   age: 30,
   email: "john@example.com",
 };
